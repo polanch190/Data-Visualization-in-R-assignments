@@ -2,9 +2,10 @@
 title: "Data Analysis Group Project"
 author: "colleen,fanta,helen,matt,rosy,tony"
 date: "4/16/2021"
+knit:  (function(inputFile, encoding) { out_dir <- 'docs'; rmarkdown::render(inputFile, encoding=encoding, output_file=file.path(dirname(inputFile), out_dir, 'index.html')) })
 output:
  html_document: 
-   code_folding: hide
+   code_folding: show
 ---
 
 # __Over the course of the pandemic, were countries with lower life expectancies hit harder by COVID-19 than countries with higher life expectancies?__
