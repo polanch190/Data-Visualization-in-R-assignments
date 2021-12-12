@@ -1,0 +1,243 @@
+Country,IPCC-GEA,Region,Sub-region,Nation,Develop_status,Least_Developed,income_Status,Land_locked,small_island,ISO
+Afghanistan,SAS,142,34,4,1,199,4,432,0,AFG
+AAland Islands,WEU,150,154,248,2,0,0,0,0,ALA
+Albania,CEU,150,39,8,3,0,2,0,0,ALB
+Algeria,NAF,2,15,12,1,0,2,0,0,DZA
+American Samoa,PAS,9,61,16,1,0,2,0,722,ASM
+Andorra,WEU,150,39,20,2,0,1,0,0,AND
+Angola,SAF,2,17,24,1,199,2,0,0,AGO
+Anguilla,CAR,419,29,660,1,0,0,0,722,AIA
+Antigua and Barbuda,CAR,419,29,28,1,0,1,0,722,ATG
+Argentina,SSA,419,5,32,1,0,2,0,0,ARG
+Armenia,CAS,142,145,51,3,0,3,432,0,ARM
+Aruba,CAR,419,29,533,1,0,1,0,722,ABW
+Australia,PAO,9,53,36,2,0,1,0,0,AUS
+Austria,WEU,150,155,40,2,0,1,0,0,AUT
+Azerbaijan,CAS,142,145,31,3,0,2,432,0,AZE
+Bahamas,CAR,419,29,44,1,0,1,0,722,BHS
+Bahrain,WAS,142,145,48,1,0,1,0,0,BHR
+Bangladesh,SAS,142,34,50,1,199,3,0,0,BGD
+Barbados,CAR,419,29,52,1,0,1,0,722,BRB
+Belarus,CEU,150,151,112,3,0,2,0,0,BLR
+Belgium,WEU,150,155,56,2,0,1,0,0,BEL
+Belize,CAM,419,13,84,1,0,2,0,722,BLZ
+Benin,WCA,2,11,204,1,199,4,0,0,BEN
+Bermuda,CAR,21,21,60,2,0,1,0,0,BMU
+Bhutan,SAS,142,34,64,1,199,3,432,0,BTN
+Bolivia,AMZ,419,5,68,1,0,3,432,0,BOL
+"Bonaire, Sint Eustatius and Saba",CAR,419,29,535,1,0,0,0,0,BES
+Bosnia and Herzegovina,CEU,150,39,70,3,0,2,0,0,BIH
+Botswana,SAF,2,18,72,1,0,2,432,0,BWA
+Brazil,AMZ,419,5,76,1,0,2,0,0,BRA
+British Virgin Islands,CAR,419,29,92,1,0,1,0,722,VGB
+Brunei,SEA,142,35,96,1,0,1,0,0,BRN
+Bulgaria,CEU,150,151,100,2,0,2,0,0,BGR
+Burkina Faso,WCA,2,11,854,1,199,4,432,0,BFA
+Burundi,EAF,2,14,108,1,199,4,432,0,BDI
+Cabo Verde,WCA,2,11,132,1,0,3,0,722,CPV
+Cambodia,SEA,142,35,116,1,199,3,0,0,KHM
+Cameroon,WCA,2,17,120,1,0,3,0,0,CMR
+Canada,NAM,21,21,124,2,0,1,0,0,CAN
+Cayman Islands,CAR,419,29,136,1,0,1,0,0,CYM
+Central African Republic,WCA,2,17,140,1,199,4,432,0,CAF
+Chad,WCA,2,17,148,1,199,4,432,0,TCD
+Channel Islands,WEU,150,154,830,2,0,0,0,0,0
+Chile,WSA,419,5,152,1,0,1,0,0,CHL
+China,DEAS,142,30,156,1,0,2,0,0,CHN
+"China, Hong Kong Special Administrative Region",DEAS,142,30,344,1,0,1,0,0,HKG
+"China, Macao Special Administrative Region",DEAS,142,30,446,1,0,1,0,0,MAC
+Colombia,NSA,419,5,170,1,0,2,0,0,COL
+Comoros,WCA,2,14,174,1,199,4,0,722,COM
+Congo (Brazzaville),WCA,2,17,178,1,0,3,0,0,COG
+Cook Islands,PAS,9,61,184,1,0,0,0,722,COK
+Costa Rica,CAM,419,13,188,1,0,2,0,0,CRI
+Cote d'Ivoire,WCA,2,11,384,1,0,3,0,0,CIV
+Croatia,CEU,150,39,191,3,0,1,0,0,HRV
+Cuba,CAR,419,29,192,1,0,2,0,722,CUB
+Curacao,CAR,419,29,531,1,0,1,0,0,CUW
+Cyprus,WEU,142,145,196,1,0,1,0,0,CYP
+Czechia,CEU,150,151,203,2,0,1,0,0,CZE
+Democratic People's Republic of Korea,DEAS,142,30,408,1,0,4,0,0,PRK
+Congo (Kinshasa),WCA,2,17,180,1,199,4,0,0,COD
+Denmark,WEU,150,154,208,2,0,1,0,0,DNK
+Djibouti,WCA,2,14,262,1,199,3,0,0,DJI
+Dominica,CAR,419,29,212,1,0,2,0,722,DMA
+Dominican Republic,CAR,419,29,214,1,0,2,0,722,DOM
+Ecuador,WSA,419,5,218,1,0,2,0,0,ECU
+Egypt,NAF,2,15,818,1,0,3,0,0,EGY
+El Salvador,CAM,419,13,222,1,0,3,0,0,SLV
+Equatorial Guinea,WCA,2,17,226,1,199,2,0,0,GNQ
+Eritrea,EAF,2,14,232,1,199,4,0,0,ERI
+Estonia,CEU,150,154,233,2,0,1,0,0,EST
+Ethiopia,EAF,2,14,231,1,199,4,432,0,ETH
+Faeroe Islands,WEU,150,154,234,2,0,1,0,0,FRO
+Falkland Islands (Malvinas),SSA,419,5,238,1,0,0,0,0,FLK
+Fiji,PAS,9,54,242,1,0,2,0,722,FJI
+Finland,WEU,150,154,246,2,0,1,0,0,FIN
+France,WEU,150,155,250,2,0,1,0,0,FRA
+French Guiana,NSA,419,5,254,1,0,0,0,0,GUF
+French Polynesia,PAS,9,61,258,1,0,1,0,722,PYF
+Gabon,WCA,2,17,266,1,0,2,0,0,GAB
+Gambia,WCA,2,11,270,1,199,4,0,0,GMB
+Georgia,CAS,142,145,268,3,0,2,0,0,GEO
+Germany,WEU,150,155,276,2,0,1,0,0,DEU
+Ghana,WCA,2,11,288,1,0,3,0,0,GHA
+Gibraltar,WEU,150,39,292,2,0,1,0,0,GIB
+Greece,WEU,150,39,300,2,0,1,0,0,GRC
+Greenland,NAM,21,21,304,2,0,1,0,0,GRL
+Grenada,CAR,419,29,308,1,0,2,0,722,GRD
+Guadeloupe,CAR,419,29,312,1,0,0,0,0,GLP
+Guam,NAM,9,57,316,1,0,1,0,722,GUM
+Guatemala,CAM,419,13,320,1,0,3,0,0,GTM
+Guernsey,WEU,150,154,831,2,0,0,0,0,GGY
+Guinea,WCA,2,11,324,1,199,4,0,0,GIN
+Guinea-Bissau,WCA,2,11,624,1,199,4,0,722,GNB
+Guyana,NSA,419,5,328,1,0,2,0,722,GUY
+Haiti,CAR,419,29,332,1,199,4,0,722,HTI
+Holy See,WEU,150,39,336,2,0,0,0,0,VAT
+Honduras,CAM,419,13,340,1,0,3,0,0,HND
+Hungary,CEU,150,151,348,2,0,1,0,0,HUN
+Iceland,WEU,150,154,352,2,0,1,0,0,ISL
+India,SAS,142,34,356,1,0,3,0,0,IND
+Indonesia,SEA,142,35,360,1,0,3,0,0,IDN
+Iran,WAS,142,34,364,1,0,2,0,0,IRN
+Iraq,WAS,142,145,368,1,0,2,0,0,IRQ
+Ireland,WEU,150,154,372,2,0,1,0,0,IRL
+Isle of Man,WEU,150,154,833,2,0,1,0,0,IMN
+Israel,WAS,142,145,376,1,0,1,0,0,ISR
+Italy,WEU,150,39,380,2,0,1,0,0,ITA
+Jamaica,CAR,419,29,388,1,0,2,0,722,JAM
+Japan,PAO,142,30,392,2,0,1,0,0,JPN
+Jersey,WEU,150,154,832,2,0,0,0,0,JEY
+Jordan,WAS,142,145,400,1,0,2,0,0,JOR
+Kazakhstan,CAS,142,143,398,3,0,2,432,0,KAZ
+Kenya,EAF,2,14,404,1,0,3,0,0,KEN
+Kiribati,PAS,9,57,296,1,199,3,0,722,KIR
+Kuwait,WAS,142,145,414,1,0,1,0,0,KWT
+Kyrgyzstan,CAS,142,143,417,1,0,3,432,0,KGZ
+Laos,SEA,142,35,418,1,199,3,432,0,LAO
+Latvia,CEU,150,154,428,2,0,1,0,0,LVA
+Lebanon,WAS,142,145,422,1,0,2,0,0,LBN
+Lesotho,SAF,2,18,426,1,199,3,432,0,LSO
+Liberia,WCA,2,11,430,1,199,4,0,0,LBR
+Libya,NAF,2,15,434,1,0,2,0,0,LBY
+Liechtenstein,WEU,150,155,438,2,0,1,0,0,LIE
+Lithuania,CEU,150,154,440,2,0,1,0,0,LTU
+Luxembourg,WEU,150,155,442,2,0,1,0,0,LUX
+Madagascar,EAF,2,14,450,1,199,4,0,0,MDG
+Malawi,SAF,2,14,454,1,199,4,432,0,MWI
+Malaysia,SEA,142,35,458,1,0,2,0,0,MYS
+Maldives,SAS,142,34,462,1,0,2,0,722,MDV
+Mali,WCA,2,11,466,1,199,4,432,0,MLI
+Malta,WEU,150,39,470,2,0,1,0,0,MLT
+Marshall Islands,PAS,9,57,584,1,0,2,0,722,MHL
+Martinique,CAR,419,29,474,1,0,0,0,0,MTQ
+Mauritania,WCA,2,11,478,1,199,3,0,0,MRT
+Mauritius,EAF,2,14,480,1,0,2,0,722,MUS
+Mayotte,SAF,2,14,175,1,0,0,0,0,MYT
+Mexico,CAM,419,13,484,1,0,2,0,0,MEX
+Micronesia (Federated States of),PAS,9,57,583,1,0,3,0,722,FSM
+Monaco,WEU,150,155,492,2,0,1,0,0,MCO
+Mongolia,DEAS,142,30,496,1,0,3,432,0,MNG
+Montenegro,CEU,150,39,499,3,0,2,0,0,MNE
+Montserrat,CAR,419,29,500,1,0,0,0,722,MSR
+Morocco,NAF,2,15,504,1,0,3,0,0,MAR
+Mozambique,SAF,2,14,508,1,199,4,0,0,MOZ
+Burma,SEA,142,35,104,1,199,3,0,0,MMR
+Namibia,SAF,2,18,516,1,0,2,0,0,NAM
+Nauru,PAS,9,57,520,1,0,1,0,722,NRU
+Nepal,SAS,142,34,524,1,199,4,432,0,NPL
+Netherlands,WEU,150,155,528,2,0,1,0,0,NLD
+New Caledonia,PAS,9,54,540,1,0,1,0,722,NCL
+New Zealand,PAO,9,53,554,2,0,1,0,0,NZL
+Nicaragua,CAM,419,13,558,1,0,3,0,0,NIC
+Niger,WCA,2,11,562,1,199,4,432,0,NER
+Nigeria,WCA,2,11,566,1,0,3,0,0,NGA
+Niue,PAS,9,61,570,1,0,0,0,722,NIU
+Norfolk Island,PAO,9,53,574,1,0,0,0,0,NFK
+Northern Mariana Islands,PAS,9,57,580,1,0,1,0,722,MNP
+Norway,WEU,150,154,578,2,0,1,0,0,NOR
+Oman,WAS,142,145,512,1,0,1,0,0,OMN
+Pakistan,SAS,142,34,586,1,0,3,0,0,PAK
+Palau,PAS,9,57,585,1,0,2,0,722,PLW
+Panama,CAM,419,13,591,1,0,2,0,0,PAN
+Papua New Guinea,PAS,9,54,598,1,0,3,0,722,PNG
+Paraguay,SSA,419,5,600,1,0,2,432,0,PRY
+Peru,WSA,419,5,604,1,0,2,0,0,PER
+Philippines,SEA,142,35,608,1,0,3,0,0,PHL
+Pitcairn,PAS,9,61,612,1,0,0,0,0,PCN
+Poland,CEU,150,151,616,2,0,1,0,0,POL
+Portugal,WEU,150,39,620,2,0,1,0,0,PRT
+Puerto Rico,NAM,419,29,630,1,0,1,0,722,PRI
+Qatar,WAS,142,145,634,1,0,1,0,0,QAT
+"Korea, South",PAO,142,30,410,1,0,1,0,0,KOR
+Moldova,CEU,150,151,498,3,0,3,432,0,MDA
+Réunion,SAF,2,14,638,1,0,0,0,0,REU
+Romania,CEU,150,151,642,2,0,2,0,0,ROU
+Russia,CEU,150,151,643,3,0,2,0,0,RUS
+Rwanda,SAF,2,14,646,1,199,4,432,0,RWA
+Saint Helena,SAF,2,11,654,1,0,0,0,0,SHN
+Saint Kitts and Nevis,CAR,419,29,659,1,0,1,0,722,KNA
+Saint Lucia,CAR,419,29,662,1,0,2,0,722,LCA
+Saint Martin (French part),CAR,419,29,663,1,0,1,0,0,MAF
+Saint Pierre and Miquelon,NAM,21,21,666,2,0,0,0,0,SPM
+Saint Vincent and the Grenadines,CAR,419,29,670,1,0,2,0,722,VCT
+Saint-Barthélemy,CAR,419,29,652,1,0,0,0,0,BLM
+Samoa,PAS,9,61,882,1,0,3,0,722,WSM
+San Marino,WEU,150,39,674,2,0,1,0,0,SMR
+Sao Tome and Principe,WCA,2,17,678,1,199,3,0,722,STP
+Sark,WEU,150,154,680,2,0,0,0,0,0
+Saudi Arabia,WAS,142,145,682,1,0,1,0,0,SAU
+Senegal,WCA,2,11,686,1,199,4,0,0,SEN
+Serbia,CEU,150,39,688,3,0,2,0,0,SCG
+Seychelles,EAF,2,14,690,1,0,1,0,722,SYC
+Sierra Leone,WCA,2,11,694,1,199,4,0,0,SLE
+Singapore,SEA,142,35,702,1,0,1,0,722,SGP
+Sint Maarten (Dutch part),CAR,419,29,534,1,0,1,0,0,SXM
+Slovakia,CEU,150,151,703,2,0,1,0,0,SVK
+Slovenia,CEU,150,39,705,2,0,1,0,0,SVN
+Solomon Islands,PAS,9,54,90,1,199,3,0,722,SLB
+Somalia,EAF,2,14,706,1,199,4,0,0,SOM
+South Africa,SAF,2,18,710,1,0,2,0,0,ZAF
+South Sudan,EAF,2,14,728,1,199,4,432,0,SSD
+Spain,WEU,150,39,724,2,0,1,0,0,ESP
+Sri Lanka,SAS,142,34,144,1,0,3,0,0,LKA
+West Bank and Gaza,WAS,142,145,275,1,0,3,0,0,PSE
+Sudan,NAF,2,15,729,1,199,3,0,0,SDN
+Suriname,NSA,419,5,740,1,0,2,0,722,SUR
+Svalbard and Jan Mayen Islands,WEU,150,154,744,2,0,0,0,0,SJM
+Swaziland,SAF,2,18,748,1,0,3,432,0,SWZ
+Sweden,WEU,150,154,752,2,0,1,0,0,SWE
+Switzerland,WEU,150,155,756,2,0,1,0,0,CHE
+Syrian Arab Republic,WAS,142,145,760,1,0,3,0,0,SYR
+Taiwan*,DEAS,142,30,158,1,0,2,0,0,TWN
+Tajikistan,CAS,142,143,762,3,0,3,432,0,TJK
+Thailand,SEA,142,35,764,1,0,2,0,0,THA
+The former Yugoslav Republic of Macedonia,CEU,150,39,807,3,0,2,432,0,MKD
+Timor-Leste,SEA,142,35,626,1,199,3,0,722,TLS
+Togo,WCA,2,11,768,1,199,4,0,0,TGO
+Tokelau,PAS,9,61,772,1,0,0,0,0,TKL
+Tonga,PAS,9,61,776,1,0,3,0,722,TON
+Trinidad and Tobago,CAR,419,29,780,1,0,1,0,722,TTO
+Tunisia,NAF,2,15,788,1,0,3,0,0,TUN
+Turkey,WEU,142,145,792,1,0,2,0,0,TUR
+Turkmenistan,CAS,142,143,795,3,0,2,432,0,TKM
+Turks and Caicos Islands,CAR,419,29,796,1,0,1,0,0,TCA
+Tuvalu,PAS,9,61,798,1,199,2,0,722,TUV
+Uganda,EAF,2,14,800,1,199,4,432,0,UGA
+Ukraine,CEU,150,151,804,3,0,3,0,0,UKR
+United Arab Emirates,WAS,142,145,784,1,0,1,0,0,ARE
+United Kingdom,WEU,150,154,826,2,0,1,0,0,GBR
+Tanzania,SAF,2,14,834,1,199,4,0,0,TZA
+US,NAM,21,21,840,2,0,1,0,0,USA
+United States Virgin Islands,CAR,419,29,850,1,0,1,0,722,VIR
+Uruguay,SSA,419,5,858,1,0,1,0,0,URY
+Uzbekistan,CAS,142,143,860,3,0,3,432,0,UZB
+Vanuatu,PAS,9,54,548,1,199,3,0,722,VUT
+Venezuela,NSA,419,5,862,1,0,2,0,0,VEN
+Vietnam,SEA,142,35,704,1,0,3,0,0,VNM
+Wallis and Futuna Islands,PAS,9,61,876,1,0,0,0,0,WLF
+Western Sahara,WCA,2,15,732,1,0,0,0,0,ESH
+Yemen,WAS,142,145,887,1,199,3,0,0,YEM
+Zambia,SAF,2,14,894,1,199,3,432,0,ZMB
+Zimbabwe,SAF,2,14,716,1,0,4,432,0,ZWE
